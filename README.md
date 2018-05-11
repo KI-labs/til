@@ -6,7 +6,12 @@ Inspired heavily by [jbranchaud/til](https://github.com/jbranchaud/til), this is
 ## Categories
 
 * [Org Mode](#org-mode)
+* [Android](#android)
 
 ## Org Mode
 
 * [Tables quick start](org-mode/tables-quick-start.md)
+
+## Android
+
+* [location-update-strategy](android/location-update-strategy.md)
