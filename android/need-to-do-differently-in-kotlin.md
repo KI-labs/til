@@ -2,5 +2,5 @@
 ## Stuff you need to do differently in Kotlin 
 > As compared to good old Java days
 
-* `@Rule` will not work like Java but you need to use `@Rule @JvmField` because otherwise it will complain that it needs to be public.
+* `@Rule` will not work like Java but you need to use `@Rule @JvmField` because otherwise it will complain that it needs to be public. [Read More](https://stackoverflow.com/a/32827600/1016544)
 
