@@ -5,14 +5,19 @@ Inspired heavily by [jbranchaud/til](https://github.com/jbranchaud/til), this is
 
 ## Categories
 
-* [Org Mode](#org-mode)
 * [Android](#android)
+* [Javascript](#javascript)
+* [Org Mode](#org-mode)
 
-## Org Mode
+### Android
+
+* [location-update-strategy](android/location-update-strategy.md)
+
+### Javascript
+
+* [Treating prices like amount of cent](javascript/prices-in-cent.md)
+
+### Org Mode
 
 * [Tables quick start](org-mode/tables-quick-start.md)
 * [Wrap paragraph](org-mode/wrap-paragraph.md) with `g q a p` or `M-q` in Evil mode.
-
-## Android
-
-* [location-update-strategy](android/location-update-strategy.md)
